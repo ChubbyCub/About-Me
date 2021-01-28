@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="my_name">Elise Pham</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi sit amet mauris commodo.
+        Risus ultricies tristique nulla aliquet enim tortor at. Magna fermentum iaculis eu non.
+        Nibh sed pulvinar proin gravida hendrerit. In ante metus dictum at tempor commodo
+        ullamcorper. Aliquam ultrices sagittis orci a. Consequat semper viverra nam libero justo.
+        Tempor commodo ullamcorper a lacus vestibulum sed. Eu scelerisque felis imperdiet proin
+        fermentum leo vel orci porta. Placerat vestibulum lectus mauris ultrices eros in cursus.
+        Erat nam at lectus urna duis convallis convallis. Duis at consectetur lorem donec massa
+        sapien. Vestibulum lectus mauris ultrices eros. Sit amet consectetur adipiscing elit duis
+        tristique. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis.
+        Viverra vitae congue eu consequat ac felis donec et odio. Rhoncus mattis rhoncus urna neque
+        viverra justo nec. Fermentum odio eu feugiat pretium nibh ipsum consequat nisl vel.
+        Tristique risus nec feugiat in fermentum posuere urna.</string>
 </resources>
