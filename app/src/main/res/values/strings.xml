@@ -9,10 +9,9 @@
         ullamcorper. Aliquam ultrices sagittis orci a. Consequat semper viverra nam libero justo.
         Tempor commodo ullamcorper a lacus vestibulum sed. Eu scelerisque felis imperdiet proin
         fermentum leo vel orci porta. Placerat vestibulum lectus mauris ultrices eros in cursus.
-        Erat nam at lectus urna duis convallis convallis. Duis at consectetur lorem donec massa
-        sapien. Vestibulum lectus mauris ultrices eros. Sit amet consectetur adipiscing elit duis
-        tristique. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis.
-        Viverra vitae congue eu consequat ac felis donec et odio. Rhoncus mattis rhoncus urna neque
-        viverra justo nec. Fermentum odio eu feugiat pretium nibh ipsum consequat nisl vel.
-        Tristique risus nec feugiat in fermentum posuere urna.</string>
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+    </string>
+    <string name="what_is_your_nick_name">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
